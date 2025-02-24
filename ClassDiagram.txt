@@ -1,0 +1,1 @@
+ [Student|-height:Real;-name:String|+assignScore(:Integer):Boolean] 
